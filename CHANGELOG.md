@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [2.1.1] - 2022-10-07
+## [2.1.0] - 2022-10-06
 
 ### Added
 - Wallet handling via CRUD
@@ -14,3 +14,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Revocation of Verifiable Credentials
 - DID document and Service Endpoint handling via CRUD
 - Business Partner data integration from external BPDM service and Verifiable Credentials
+- Copyright, dependency and notice files according to Eclipse project requirements
